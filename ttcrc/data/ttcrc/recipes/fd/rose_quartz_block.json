@@ -1,0 +1,24 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "cinderscapes:rose_quartz_block"
+      }
+    ],
+    "tool": {
+    "type": "farmersdelight:tool",
+    "tag": "c:tools/pickaxes"
+  },
+    "result": [
+      {
+        "item": "cinderscapes:rose_quartz",
+        "count": 4
+      }
+    ],
+    "fabric:load_conditions": [
+      {
+        "condition": "fabric:all_mods_loaded",
+        "values": ["cinderscapes","farmersdelight"]
+      }
+    ]
+  }
