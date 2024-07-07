@@ -1,7 +1,6 @@
 {
   "pack": {
-    "pack_format": 10,
-    "supported_formats": [9,10],
-    "description": "Terrestria, Traverse & Cinderscape Recipe Compat v0.0.0-1.18.2-1.19.3"
+    "pack_format": 15,
+    "description": "Terrestria, Traverse & Cinderscape Recipe Compat v0.0.0-1.20.1"
   }
 }
