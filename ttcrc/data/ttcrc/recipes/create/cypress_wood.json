@@ -1,0 +1,20 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "terrestria:cypress_wood"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "terrestria:stripped_cypress_wood"
+    }
+  ],
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["terrestria","create"]
+    }
+  ]
+}

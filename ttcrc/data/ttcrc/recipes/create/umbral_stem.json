@@ -1,0 +1,20 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "cinderscapes:umbral_stem"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "cinderscapes:stripped_umbral_stem"
+    }
+  ],
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["cinderscapes","create"]
+    }
+  ]
+}

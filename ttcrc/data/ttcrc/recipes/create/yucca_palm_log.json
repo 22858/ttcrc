@@ -1,0 +1,20 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "terrestria:yucca_palm_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "terrestria:stripped_yucca_palm_log"
+    }
+  ],
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["terrestria","create"]
+    }
+  ]
+}
